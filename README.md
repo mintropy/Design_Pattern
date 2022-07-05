@@ -22,7 +22,7 @@
 	- Iterator
 	- Mediator
 	- Memento
-	- Observer
+	- [옵저버 패턴, observer pattern](observer_pattern.ipynb)
 	- State
 	- [전략 패턴, strategy pattern](strategy_pattern.ipynb)
 	- Template Method
