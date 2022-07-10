@@ -11,7 +11,7 @@
 	- Adapter
 	- Bridge
 	- Composite
-	- Decorator
+	- [데코레이터 패턴, decorator pattern](decorator_pattern.ipynb)
 	- Facade
 	- Flyweight
 	- Proxy
